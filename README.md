@@ -6,4 +6,4 @@ Haveged helps.
 
 Run like this:
 
-    docker run --rm -it --privileged -v /dev/urandom:/dev/random haveged
+    docker run --rm -it --privileged -v /dev/urandom:/dev/random gesellix/haveged
